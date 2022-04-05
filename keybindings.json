@@ -109,5 +109,15 @@
         "key": "cmd+j",
         "command": "java.view.package.newJavaClass",
         "when": "!editorFocus" 
+    },
+    {
+        "key": "ctrl+alt+cmd+j",
+        "command": "java.debug.runJavaFile",
+        "when": "editorFocus"
+    },
+    {
+        "key": "ctrl+alt+cmd+d",
+        "command": "java.debug.debugJavaFile",
+        "when": "editorFocus"
     }
 ]
