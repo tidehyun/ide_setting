@@ -1,651 +1,73 @@
-Last login: Fri Apr  1 14:12:27 on console
-ykh@ykh:~ » cd
-ykh@ykh:~ » ls
-Applications      Downloads         Music             dev               node_modules
-Desktop           Library           Pictures          eclipse           package-lock.json
-Documents         Movies            Public            jmeter.log        yarn.lock
-ykh@ykh:~ » cd pro
-cd: no such file or directory: pro
-ykh@ykh:~ » clear                                                                                                                       1 ↵
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ykh@ykh:~ » cd dev 
-ykh@ykh:~/dev » ls
-IPE               docker            node_modules      package.json      scripts           tmp
-NPM               k8s               package-lock.json programming       src
-ykh@ykh:~/dev » cd programming 
-ykh@ykh:~/dev/programming » ls
-C_language                    inflearn                      spring4.3-dynamicweb          spring_jmx
-DOCKER                        mailsender                    spring_aes                    spring_jwt
-LIB                           maven.txt                     spring_cloud                  spring_shutdown
-LUA                           maven2.txt                    spring_elasticsearch          spring_threaddump
-VUE                           node_project                  spring_eventlistener          spring_web
-catfriends                    open_source                   spring_fixture_monkey         spring_webflux
-catfriends_admin              programming.iml               spring_generics               spring_webflux_h2_sample
-codilitylesson                sample_code                   spring_h2                     spring_webmvc
-cover-javalib-agent           spring-boot2.0-webflux-sample spring_hateoas                study_java
-demo                          spring-rabbitmq-receiver      spring_integration_http       study_jpa
-git_project                   spring-rabbitmq-sender        spring_integration_webflux    webflux_boot
-ykh@ykh:~/dev/programming » mkdir vsc_project
-ykh@ykh:~/dev/programming » ls
-C_language                    mailsender                    spring_cloud                  spring_threaddump
-DOCKER                        maven.txt                     spring_elasticsearch          spring_web
-LIB                           maven2.txt                    spring_eventlistener          spring_webflux
-LUA                           node_project                  spring_fixture_monkey         spring_webflux_h2_sample
-VUE                           open_source                   spring_generics               spring_webmvc
-catfriends                    programming.iml               spring_h2                     study_java
-catfriends_admin              sample_code                   spring_hateoas                study_jpa
-codilitylesson                spring-boot2.0-webflux-sample spring_integration_http       vsc_project
-cover-javalib-agent           spring-rabbitmq-receiver      spring_integration_webflux    webflux_boot
-demo                          spring-rabbitmq-sender        spring_jmx
-git_project                   spring4.3-dynamicweb          spring_jwt
-inflearn                      spring_aes                    spring_shutdown
-ykh@ykh:~/dev/programming » cd vsc_project 
-ykh@ykh:~/dev/programming/vsc_project » ls
-test
-ykh@ykh:~/dev/programming/vsc_project » clear
-
-
-
-
-
-
-
-
-
-ykh@ykh:~/dev/programming/vsc_project » ls
-test
-ykh@ykh:~/dev/programming/vsc_project » cd test 
-ykh@ykh:~/dev/programming/vsc_project/test » ls
-HELP.md  mvnw     mvnw.cmd pom.xml  src
-ykh@ykh:~/dev/programming/vsc_project/test » ll
-total 64
-drwxr-xr-x  9 ykh  staff   288B  4  5 13:13 .
-drwxr-xr-x  3 ykh  staff    96B  4  5 13:13 ..
--rw-r--r--  1 ykh  staff   395B  4  5 13:13 .gitignore
-drwxr-xr-x  3 ykh  staff    96B  4  5 13:13 .mvn
--rw-r--r--  1 ykh  staff   891B  4  5 13:13 HELP.md
--rwxr-xr-x  1 ykh  staff    10K  4  5 13:13 mvnw
--rw-r--r--  1 ykh  staff   6.6K  4  5 13:13 mvnw.cmd
--rw-r--r--  1 ykh  staff   1.5K  4  5 13:13 pom.xml
-drwxr-xr-x  4 ykh  staff   128B  4  5 13:13 src
-ykh@ykh:~/dev/programming/vsc_project/test » clear
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ykh@ykh:~/dev/programming/vsc_project/test » ll
-total 64
-drwxr-xr-x  9 ykh  staff   288B  4  5 13:13 .
-drwxr-xr-x  3 ykh  staff    96B  4  5 13:13 ..
--rw-r--r--  1 ykh  staff   395B  4  5 13:13 .gitignore
-drwxr-xr-x  3 ykh  staff    96B  4  5 13:13 .mvn
--rw-r--r--  1 ykh  staff   891B  4  5 13:13 HELP.md
--rwxr-xr-x  1 ykh  staff    10K  4  5 13:13 mvnw
--rw-r--r--  1 ykh  staff   6.6K  4  5 13:13 mvnw.cmd
--rw-r--r--  1 ykh  staff   1.5K  4  5 13:13 pom.xml
-drwxr-xr-x  4 ykh  staff   128B  4  5 13:13 src
-ykh@ykh:~/dev/programming/vsc_project/test » cd src 
-ykh@ykh:~/dev/programming/vsc_project/test/src » ls
-main test
-ykh@ykh:~/dev/programming/vsc_project/test/src » clear
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ykh@ykh:~/dev/programming/vsc_project/test/src » ls
-main test
-ykh@ykh:~/dev/programming/vsc_project/test/src » cd
-ykh@ykh:~ » ls
-Applications      Downloads         Music             dev               node_modules
-Desktop           Library           Pictures          eclipse           package-lock.json
-Documents         Movies            Public            jmeter.log        yarn.lock
-ykh@ykh:~ » ll
-total 624
-drwxr-xr-x+ 72 ykh   staff   2.3K  4  5 13:42 .
-drwxr-xr-x   6 root  admin   192B  2 26 16:05 ..
--r--------   1 ykh   staff     8B  9 19  2018 .CFUserTextEncoding
--rw-r--r--@  1 ykh   staff    18K  3 31 15:15 .DS_Store
-drwx------+  2 ykh   staff    64B  3 29 15:58 .Trash
-drwxr-xr-x  11 ykh   staff   352B  7 22  2019 .android
--rw-------   1 ykh   staff   5.7K  7  5  2021 .bash_history
-drwx------  12 ykh   staff   384B  7  5  2021 .bash_sessions
--rw-r--r--   1 ykh   staff   400B  4  2  2021 .bashrc
-drwxr-xr-x   3 ykh   staff    96B 11  2 18:17 .cache
-drwx------   5 ykh   staff   160B 11  5  2020 .config
--rw-------   1 ykh   staff   122B 12 17  2018 .dbshell
-drwxr-xr-x   3 ykh   staff    96B  4  2  2021 .decompiler
--rw-r--r--   1 ykh   staff    17B  4  1 14:12 .delfino.conf
-drwxr-xr-x  11 ykh   staff   352B 12 16 16:42 .docker
-drwxr-xr-x  12 ykh   staff   384B  3 15  2021 .eclipse
--r--------   1 ykh   staff    20B  1 29  2019 .erlang.cookie
--rw-r--r--   1 ykh   staff    47B 11  6  2018 .gitconfig
-drwxr-xr-x  10 ykh   staff   320B  1  4 13:46 .gradle
-drwxr-xr-x   3 ykh   staff    96B 12  4  2020 .groovy
--rw-r--r--   1 ykh   staff   2.0K  1 20 16:14 .h2.server.properties
-drwx------   4 ykh   staff   128B 10 28 18:34 .influxdbv2
-drwxr-xr-x  56 ykh   staff   1.8K 12 23  2020 .jenkins
-drwxr-xr-x   3 ykh   staff    96B 10 16  2018 .jmc
-drwxr-xr-x   4 ykh   staff   128B  4  1 14:12 .kube
-drwxr-xr-x   3 ykh   staff    96B 11  3 16:18 .lemminx
-drwxr-xr-x   4 ykh   staff   128B 12 23  2020 .m2
-drwxr-xr-x   2 ykh   staff    64B  3 24  2020 .matplotlib
--rw-------   1 ykh   staff     0B 12 11  2018 .mongorc.js
-drwxr-xr-x   3 ykh   staff    96B  4  5 13:42 .nc6
-drwxr-xr-x   3 ykh   staff    96B  4  2  2019 .node-gyp
--rw-------   1 ykh   staff    47B 11  1 11:12 .node_repl_history
-drwxr-xr-x   8 ykh   staff   256B  3 24  2021 .npm
--rw-r--r--   1 ykh   staff    43B  1 24  2019 .nuuid.ini
-drwxr-xr-x  22 ykh   staff   704B  3 29 13:28 .oh-my-zsh
-drwxr-xr-x   5 ykh   staff   160B  4 17  2019 .oracle_jre_usage
-drwxr-xr-x   8 ykh   staff   256B  1  5 16:38 .p2
-drwx------   4 ykh   staff   128B 10  8  2019 .putty
--rw-------   1 ykh   staff    20B  1 17 13:38 .python_history
--rw-------   1 root  staff   1.0K  9 28  2018 .rnd
-drwxr-xr-x   5 ykh   staff   160B 10  1  2019 .scouter
--rw-r--r--   1 ykh   staff    10B  7  2  2021 .shell.pre-oh-my-zsh
-drwx------   3 ykh   staff    96B 11 17 14:46 .ssh
-drwxr-xr-x   3 ykh   staff    96B 11  5  2020 .sts4
-drwxr-xr-x   3 ykh   staff    96B 11  5  2020 .tooling
-drwxr-xr-x   9 ykh   staff   288B 11 18 16:34 .vagrant.d
-drwxr-xr-x   3 ykh   staff    96B 12 23  2020 .vim
--rw-------   1 ykh   staff    22K  3 31 15:19 .viminfo
-drwxr-xr-x   4 ykh   staff   128B 12 15  2020 .vscode
--rw-r--r--   1 ykh   staff   120B  1  7  2021 .vuerc
--rw-r--r--   1 ykh   staff   116B  4  2  2019 .yarnrc
--rw-r--r--   1 ykh   staff    40K  3 29 13:28 .zcompdump-ykh-5.3
--rw-r--r--   1 ykh   staff    47K  3 29 14:59 .zcompdump-ykh-5.8
--rw-r--r--   1 ykh   staff   166B  1 17 13:37 .zprofile
--rw-------   1 ykh   staff    68K  4  5 13:42 .zsh_history
-drwx------   6 ykh   staff   192B  4  1 13:46 .zsh_sessions
--rw-r--r--   1 ykh   staff   3.8K 11 17 11:27 .zshrc
-drwx------@  5 ykh   staff   160B  1 26 16:53 Applications
-drwx------+  7 ykh   staff   224B  3 29 14:47 Desktop
-drwx------+  4 ykh   staff   128B  2 24  2021 Documents
-drwx------@ 41 ykh   staff   1.3K  3 31 16:06 Downloads
-drwx------@ 93 ykh   staff   2.9K  4  1 14:13 Library
-drwx------+  6 ykh   staff   192B  3 29 15:17 Movies
-drwx------+  5 ykh   staff   160B  3 29 15:17 Music
-drwx------+ 14 ykh   staff   448B 12 12  2019 Pictures
-drwxr-xr-x+  5 ykh   staff   160B  2 25  2020 Public
-drwxr-xr-x  14 ykh   staff   448B 11  8 16:35 dev
-drwxr-xr-x   4 ykh   staff   128B  3 15  2021 eclipse
--rw-r--r--   1 ykh   staff    30K 12 23 13:45 jmeter.log
-drwxr-xr-x   7 ykh   staff   224B 12  9  2020 node_modules
--rw-r--r--   1 ykh   staff   1.1K 12  9  2020 package-lock.json
--rw-r--r--   1 ykh   staff    86B  4  2  2019 yarn.lock
-ykh@ykh:~ » cd .vscode 
-ykh@ykh:~/.vscode » ls
-argv.json  extensions
-ykh@ykh:~/.vscode » cd extensions 
-ykh@ykh:~/.vscode/extensions » ls
-actboy168.lua-debug-1.53.0                    nicholashsiang.vscode-vue2-snippets-1.1.1     visualstudioexptteam.vscodeintellicode-1.2.18
-actboy168.lua-debug-1.53.1                    nightrains.robloxlsp-1.5.5                    vscjava.vscode-java-debug-0.38.0
-dbaeumer.vscode-eslint-2.2.2                  nightrains.robloxlsp-1.5.9                    vscjava.vscode-java-dependency-0.19.0
-dkundel.vscode-new-file-4.0.2                 octref.vetur-0.35.0                           vscjava.vscode-java-pack-0.21.0
-esbenp.prettier-vscode-9.2.0                  peakchen90.vue-beautify-2.0.4                 vscjava.vscode-java-pack-0.22.2
-esbenp.prettier-vscode-9.5.0                  pivotal.vscode-boot-dev-pack-0.1.0            vscjava.vscode-java-test-0.34.0
-formulahendry.code-runner-0.11.7              pivotal.vscode-concourse-1.31.0               vscjava.vscode-java-test-0.34.1
-gabrielbb.vscode-lombok-1.0.1                 pivotal.vscode-concourse-1.32.0               vscjava.vscode-maven-0.35.0
-hookyqr.beautify-1.5.0                        pivotal.vscode-manifest-yaml-1.31.0           vscjava.vscode-maven-0.35.1
-k--kato.intellij-idea-keybindings-1.5.0       pivotal.vscode-manifest-yaml-1.32.0           vscjava.vscode-spring-boot-dashboard-0.2.0
-k--kato.intellij-idea-keybindings-1.5.1       pivotal.vscode-spring-boot-1.31.0             vscjava.vscode-spring-boot-dashboard-0.3.0
-kampfkarren.roblox-lua-autofills-1.7.1        pivotal.vscode-spring-boot-1.32.0             vscjava.vscode-spring-initializr-0.8.0
-keyring.lua-0.0.9                             redhat.java-1.3.0                             vscjava.vscode-spring-initializr-0.9.0
-koppt.vscode-view-in-browser-1.0.5            redhat.java-1.4.0                             vscodevim.vim-1.22.1
-ms-ceintl.vscode-language-pack-ko-1.64.6      ritwickdey.liveserver-5.7.4                   vscodevim.vim-1.22.2
-ms-ceintl.vscode-language-pack-ko-1.64.7      ritwickdey.liveserver-5.7.5                   yinfei.luahelper-0.2.10
-ms-vscode.cpptools-1.8.4                      shakram02.bash-beautify-0.1.1                 yinfei.luahelper-0.2.12
-ms-vscode.cpptools-1.9.7                      stanzilla.vscode-luaformatter-0.0.4
-mwpb.java-prettier-formatter-0.1.4            visualstudioexptteam.vscodeintellicode-1.2.17
-ykh@ykh:~/.vscode/extensions » clear
-
-
-ykh@ykh:~/.vscode/extensions » ll
-total 8
-drwxr-xr-x  58 ykh  staff   1.8K  4  5 13:21 .
-drwxr-xr-x   4 ykh  staff   128B 12 15  2020 ..
--rw-r--r--   1 ykh  staff   772B  4  5 13:22 .obsolete
-drwxr-xr-x  12 ykh  staff   384B  2 14 13:56 actboy168.lua-debug-1.53.0
-drwxr-xr-x  12 ykh  staff   384B  4  5 13:07 actboy168.lua-debug-1.53.1
-drwxr-xr-x  13 ykh  staff   416B  2 14 13:53 dbaeumer.vscode-eslint-2.2.2
-drwxr-xr-x  14 ykh  staff   448B  2 15 11:15 dkundel.vscode-new-file-4.0.2
-drwxr-xr-x  16 ykh  staff   512B  2 14 13:53 esbenp.prettier-vscode-9.2.0
-drwxr-xr-x  16 ykh  staff   512B  4  5 13:08 esbenp.prettier-vscode-9.5.0
-drwxr-xr-x  14 ykh  staff   448B  2 14 13:53 formulahendry.code-runner-0.11.7
-drwxr-xr-x  10 ykh  staff   320B  4  5 13:10 gabrielbb.vscode-lombok-1.0.1
-drwxr-xr-x  16 ykh  staff   512B  2 15 15:44 hookyqr.beautify-1.5.0
-drwxr-xr-x  14 ykh  staff   448B  2 14 13:53 k--kato.intellij-idea-keybindings-1.5.0
-drwxr-xr-x  13 ykh  staff   416B  4  5 13:07 k--kato.intellij-idea-keybindings-1.5.1
-drwxr-xr-x  10 ykh  staff   320B  2 15 11:15 kampfkarren.roblox-lua-autofills-1.7.1
-drwxr-xr-x   9 ykh  staff   288B  2 14 13:56 keyring.lua-0.0.9
-drwxr-xr-x  10 ykh  staff   320B 12 15  2020 koppt.vscode-view-in-browser-1.0.5
-drwxr-xr-x   8 ykh  staff   256B  2 15 11:14 ms-ceintl.vscode-language-pack-ko-1.64.6
-drwxr-xr-x   8 ykh  staff   256B  4  5 13:07 ms-ceintl.vscode-language-pack-ko-1.64.7
-drwxr-xr-x  37 ykh  staff   1.2K  2 15 11:14 ms-vscode.cpptools-1.8.4
-drwxr-xr-x  38 ykh  staff   1.2K  4  5 13:09 ms-vscode.cpptools-1.9.7
-drwxr-xr-x  10 ykh  staff   320B  4  5 13:21 mwpb.java-prettier-formatter-0.1.4
-drwxr-xr-x  16 ykh  staff   512B  1 17 13:30 nicholashsiang.vscode-vue2-snippets-1.1.1
-drwxr-xr-x  12 ykh  staff   384B  2 15 11:15 nightrains.robloxlsp-1.5.5
-drwxr-xr-x  12 ykh  staff   384B  4  5 13:08 nightrains.robloxlsp-1.5.9
-drwxr-xr-x  16 ykh  staff   512B  1 17 13:31 octref.vetur-0.35.0
-drwxr-xr-x  11 ykh  staff   352B 12 15  2020 peakchen90.vue-beautify-2.0.4
-drwxr-xr-x   8 ykh  staff   256B  9 28  2021 pivotal.vscode-boot-dev-pack-0.1.0
-drwxr-xr-x  14 ykh  staff   448B  2 14 13:53 pivotal.vscode-concourse-1.31.0
-drwxr-xr-x  14 ykh  staff   448B  4  5 13:08 pivotal.vscode-concourse-1.32.0
-drwxr-xr-x  12 ykh  staff   384B  2 14 13:54 pivotal.vscode-manifest-yaml-1.31.0
-drwxr-xr-x  12 ykh  staff   384B  4  5 13:08 pivotal.vscode-manifest-yaml-1.32.0
-drwxr-xr-x  16 ykh  staff   512B  2 14 13:54 pivotal.vscode-spring-boot-1.31.0
-drwxr-xr-x  16 ykh  staff   512B  4  5 13:09 pivotal.vscode-spring-boot-1.32.0
-drwxr-xr-x  20 ykh  staff   640B  2 14 13:54 redhat.java-1.3.0
-drwxr-xr-x  20 ykh  staff   640B  4  5 13:09 redhat.java-1.4.0
-drwxr-xr-x  10 ykh  staff   320B  2 14 13:53 ritwickdey.liveserver-5.7.4
-drwxr-xr-x  10 ykh  staff   320B  4  5 13:07 ritwickdey.liveserver-5.7.5
-drwxr-xr-x  12 ykh  staff   384B  2 15 15:47 shakram02.bash-beautify-0.1.1
-drwxr-xr-x  13 ykh  staff   416B  2 15 15:52 stanzilla.vscode-luaformatter-0.0.4
-drwxr-xr-x  31 ykh  staff   992B  2 14 13:53 visualstudioexptteam.vscodeintellicode-1.2.17
-drwxr-xr-x  32 ykh  staff   1.0K  4  5 13:15 visualstudioexptteam.vscodeintellicode-1.2.18
-drwxr-xr-x  20 ykh  staff   640B  2 14 13:53 vscjava.vscode-java-debug-0.38.0
-drwxr-xr-x  16 ykh  staff   512B  2 14 13:53 vscjava.vscode-java-dependency-0.19.0
-drwxr-xr-x  18 ykh  staff   576B  2 14 13:53 vscjava.vscode-java-pack-0.21.0
-drwxr-xr-x  17 ykh  staff   544B  4  5 13:07 vscjava.vscode-java-pack-0.22.2
-drwxr-xr-x  14 ykh  staff   448B  2 14 13:53 vscjava.vscode-java-test-0.34.0
-drwxr-xr-x  14 ykh  staff   448B  4  5 13:07 vscjava.vscode-java-test-0.34.1
-drwxr-xr-x  16 ykh  staff   512B  2 14 13:53 vscjava.vscode-maven-0.35.0
-drwxr-xr-x  16 ykh  staff   512B  4  5 13:08 vscjava.vscode-maven-0.35.1
-drwxr-xr-x  14 ykh  staff   448B  4  8  2021 vscjava.vscode-spring-boot-dashboard-0.2.0
-drwxr-xr-x  15 ykh  staff   480B  4  5 13:07 vscjava.vscode-spring-boot-dashboard-0.3.0
-drwxr-xr-x  11 ykh  staff   352B  1 17 13:30 vscjava.vscode-spring-initializr-0.8.0
-drwxr-xr-x  12 ykh  staff   384B  4  5 13:12 vscjava.vscode-spring-initializr-0.9.0
-drwxr-xr-x  16 ykh  staff   512B  2 14 13:53 vscodevim.vim-1.22.1
-drwxr-xr-x  16 ykh  staff   512B  4  5 13:07 vscodevim.vim-1.22.2
-drwxr-xr-x  17 ykh  staff   544B  2 14 14:42 yinfei.luahelper-0.2.10
-drwxr-xr-x  17 ykh  staff   544B  4  5 13:08 yinfei.luahelper-0.2.12
-ykh@ykh:~/.vscode/extensions » cd ..
-ykh@ykh:~/.vscode » ls
-argv.json  extensions
-ykh@ykh:~/.vscode » ll
-total 8
-drwxr-xr-x   4 ykh  staff   128B 12 15  2020 .
-drwxr-xr-x+ 72 ykh  staff   2.3K  4  5 13:43 ..
--rw-r--r--   1 ykh  staff   1.0K 12 15  2020 argv.json
-drwxr-xr-x  58 ykh  staff   1.8K  4  5 13:21 extensions
-ykh@ykh:~/.vscode » ll 
-total 8
-drwxr-xr-x   4 ykh  staff   128B 12 15  2020 .
-drwxr-xr-x+ 72 ykh  staff   2.3K  4  5 13:43 ..
--rw-r--r--   1 ykh  staff   1.0K 12 15  2020 argv.json
-drwxr-xr-x  58 ykh  staff   1.8K  4  5 13:21 extensions
-ykh@ykh:~/.vscode » pwd
-/Users/ykh/.vscode
-ykh@ykh:~/.vscode » cd ..
-ykh@ykh:~ » ls
-Applications      Downloads         Music             dev               node_modules
-Desktop           Library           Pictures          eclipse           package-lock.json
-Documents         Movies            Public            jmeter.log        yarn.lock
-ykh@ykh:~ » cd Library 
-ykh@ykh:~/Library » ls
-Accounts                           DoNotDisturb                       Mail                               Sharing
-Android                            DuetExpertCenter                   Maps                               Shortcuts
-Application Scripts                Family                             Messages                           Sounds
-Application Support                Favorites                          Metadata                           Spelling
-Assistant                          FileProvider                       Mobile Documents                   Staging
-Assistants                         FontCollections                    News                               StatusKit
-Audio                              Fonts                              Passes                             StickiesDatabase
-Autosave Information               FrontBoard                         PersonalizationPortrait            Suggestions
-Biome                              GameKit                            Personas                           SyncedPreferences
-BlueStacks                         Google                             Photos                             Trial
-Caches                             Group Containers                   PreferencePanes                    VirtualBox
-Calendars                          HTTPStorages                       Preferences                        Voices
-CallServices                       HomeKit                            Printers                           Weather
-ColorPickers                       IdentityServices                   PubSub                             WebKit
-Colors                             Input Methods                      Receipts                           com.apple.appleaccountd
-Compositions                       Internet Plug-Ins                  Reminders                          com.apple.bluetooth.services.cloud
-Contacts                           Keyboard                           ResponseKit                        com.apple.icloud.searchpartyd
-ContainerManager                   Keyboard Layouts                   Safari                             com.apple.internal.ck
-Containers                         KeyboardServices                   SafariSafeBrowsing                 iMovie
-Cookies                            Keychains                          Saved Application State            studentd
-CoreFollowUp                       LanguageModeling                   Screen Savers
-DataDeliveryServices               LaunchAgents                       ScreenRecordings
-Dictionaries                       Logs                               Services
-ykh@ykh:~/Library » which vscode
-vscode not found
-ykh@ykh:~/Library » cd ..                                                                                                               1 ↵
-ykh@ykh:~ » ls
-Applications      Downloads         Music             dev               node_modules
-Desktop           Library           Pictures          eclipse           package-lock.json
-Documents         Movies            Public            jmeter.log        yarn.lock
-ykh@ykh:~ » clear
-
-ykh@ykh:~ » ls
-Applications      Downloads         Music             dev               node_modules
-Desktop           Library           Pictures          eclipse           package-lock.json
-Documents         Movies            Public            jmeter.log        yarn.lock
-ykh@ykh:~ » cd Applications 
-ykh@ykh:~/Applications » ls
-Chrome Apps.localized
-ykh@ykh:~/Applications » cd ..                     
-ykh@ykh:~ » ls
-Applications      Downloads         Music             dev               node_modules
-Desktop           Library           Pictures          eclipse           package-lock.json
-Documents         Movies            Public            jmeter.log        yarn.lock
-ykh@ykh:~ » clear
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ykh@ykh:~ » ll
-total 752
-drwxr-xr-x+ 72 ykh   staff   2.3K  4  5 13:44 .
-drwxr-xr-x   6 root  admin   192B  2 26 16:05 ..
--r--------   1 ykh   staff     8B  9 19  2018 .CFUserTextEncoding
--rw-r--r--@  1 ykh   staff    18K  3 31 15:15 .DS_Store
-drwx------+  2 ykh   staff    64B  3 29 15:58 .Trash
-drwxr-xr-x  11 ykh   staff   352B  7 22  2019 .android
--rw-------   1 ykh   staff   5.7K  7  5  2021 .bash_history
-drwx------  12 ykh   staff   384B  7  5  2021 .bash_sessions
--rw-r--r--   1 ykh   staff   400B  4  2  2021 .bashrc
-drwxr-xr-x   3 ykh   staff    96B 11  2 18:17 .cache
-drwx------   5 ykh   staff   160B 11  5  2020 .config
--rw-------   1 ykh   staff   122B 12 17  2018 .dbshell
-drwxr-xr-x   3 ykh   staff    96B  4  2  2021 .decompiler
--rw-r--r--   1 ykh   staff    17B  4  1 14:12 .delfino.conf
-drwxr-xr-x  11 ykh   staff   352B 12 16 16:42 .docker
-drwxr-xr-x  12 ykh   staff   384B  3 15  2021 .eclipse
--r--------   1 ykh   staff    20B  1 29  2019 .erlang.cookie
--rw-r--r--   1 ykh   staff    47B 11  6  2018 .gitconfig
-drwxr-xr-x  10 ykh   staff   320B  1  4 13:46 .gradle
-drwxr-xr-x   3 ykh   staff    96B 12  4  2020 .groovy
--rw-r--r--   1 ykh   staff   2.0K  1 20 16:14 .h2.server.properties
-drwx------   4 ykh   staff   128B 10 28 18:34 .influxdbv2
-drwxr-xr-x  56 ykh   staff   1.8K 12 23  2020 .jenkins
-drwxr-xr-x   3 ykh   staff    96B 10 16  2018 .jmc
-drwxr-xr-x   4 ykh   staff   128B  4  1 14:12 .kube
-drwxr-xr-x   3 ykh   staff    96B 11  3 16:18 .lemminx
-drwxr-xr-x   4 ykh   staff   128B 12 23  2020 .m2
-drwxr-xr-x   2 ykh   staff    64B  3 24  2020 .matplotlib
--rw-------   1 ykh   staff     0B 12 11  2018 .mongorc.js
-drwxr-xr-x   3 ykh   staff    96B  4  5 13:44 .nc6
-drwxr-xr-x   3 ykh   staff    96B  4  2  2019 .node-gyp
--rw-------   1 ykh   staff    47B 11  1 11:12 .node_repl_history
-drwxr-xr-x   8 ykh   staff   256B  3 24  2021 .npm
--rw-r--r--   1 ykh   staff    43B  1 24  2019 .nuuid.ini
-drwxr-xr-x  22 ykh   staff   704B  3 29 13:28 .oh-my-zsh
-drwxr-xr-x   5 ykh   staff   160B  4 17  2019 .oracle_jre_usage
-drwxr-xr-x   8 ykh   staff   256B  1  5 16:38 .p2
-drwx------   4 ykh   staff   128B 10  8  2019 .putty
--rw-------   1 ykh   staff    20B  1 17 13:38 .python_history
--rw-------   1 root  staff   1.0K  9 28  2018 .rnd
-drwxr-xr-x   5 ykh   staff   160B 10  1  2019 .scouter
--rw-r--r--   1 ykh   staff    10B  7  2  2021 .shell.pre-oh-my-zsh
-drwx------   3 ykh   staff    96B 11 17 14:46 .ssh
-drwxr-xr-x   3 ykh   staff    96B 11  5  2020 .sts4
-drwxr-xr-x   3 ykh   staff    96B 11  5  2020 .tooling
-drwxr-xr-x   9 ykh   staff   288B 11 18 16:34 .vagrant.d
-drwxr-xr-x   3 ykh   staff    96B 12 23  2020 .vim
--rw-------   1 ykh   staff    22K  3 31 15:19 .viminfo
-drwxr-xr-x   4 ykh   staff   128B 12 15  2020 .vscode
--rw-r--r--   1 ykh   staff   120B  1  7  2021 .vuerc
--rw-r--r--   1 ykh   staff   116B  4  2  2019 .yarnrc
--rw-r--r--   1 ykh   staff    40K  3 29 13:28 .zcompdump-ykh-5.3
--rw-r--r--   1 ykh   staff    47K  3 29 14:59 .zcompdump-ykh-5.8
--rw-r--r--   1 ykh   staff   166B  1 17 13:37 .zprofile
--rw-------   1 ykh   staff    68K  4  5 13:44 .zsh_history
-drwx------   6 ykh   staff   192B  4  1 13:46 .zsh_sessions
--rw-r--r--   1 ykh   staff   3.8K 11 17 11:27 .zshrc
-drwx------@  5 ykh   staff   160B  1 26 16:53 Applications
-drwx------+  7 ykh   staff   224B  3 29 14:47 Desktop
-drwx------+  4 ykh   staff   128B  2 24  2021 Documents
-drwx------@ 41 ykh   staff   1.3K  3 31 16:06 Downloads
-drwx------@ 93 ykh   staff   2.9K  4  1 14:13 Library
-drwx------+  6 ykh   staff   192B  3 29 15:17 Movies
-drwx------+  5 ykh   staff   160B  3 29 15:17 Music
-drwx------+ 14 ykh   staff   448B 12 12  2019 Pictures
-drwxr-xr-x+  5 ykh   staff   160B  2 25  2020 Public
-drwxr-xr-x  14 ykh   staff   448B 11  8 16:35 dev
-drwxr-xr-x   4 ykh   staff   128B  3 15  2021 eclipse
--rw-r--r--   1 ykh   staff    30K 12 23 13:45 jmeter.log
-drwxr-xr-x   7 ykh   staff   224B 12  9  2020 node_modules
--rw-r--r--   1 ykh   staff   1.1K 12  9  2020 package-lock.json
--rw-r--r--   1 ykh   staff    86B  4  2  2019 yarn.lock
-ykh@ykh:~ » cd .vscode 
-ykh@ykh:~/.vscode » ls
-argv.json  extensions
-ykh@ykh:~/.vscode » ll
-total 8
-drwxr-xr-x   4 ykh  staff   128B 12 15  2020 .
-drwxr-xr-x+ 72 ykh  staff   2.3K  4  5 13:44 ..
--rw-r--r--   1 ykh  staff   1.0K 12 15  2020 argv.json
-drwxr-xr-x  58 ykh  staff   1.8K  4  5 13:21 extensions
-ykh@ykh:~/.vscode » cd extensions 
-ykh@ykh:~/.vscode/extensions » ls
-actboy168.lua-debug-1.53.0                    nicholashsiang.vscode-vue2-snippets-1.1.1     visualstudioexptteam.vscodeintellicode-1.2.18
-actboy168.lua-debug-1.53.1                    nightrains.robloxlsp-1.5.5                    vscjava.vscode-java-debug-0.38.0
-dbaeumer.vscode-eslint-2.2.2                  nightrains.robloxlsp-1.5.9                    vscjava.vscode-java-dependency-0.19.0
-dkundel.vscode-new-file-4.0.2                 octref.vetur-0.35.0                           vscjava.vscode-java-pack-0.21.0
-esbenp.prettier-vscode-9.2.0                  peakchen90.vue-beautify-2.0.4                 vscjava.vscode-java-pack-0.22.2
-esbenp.prettier-vscode-9.5.0                  pivotal.vscode-boot-dev-pack-0.1.0            vscjava.vscode-java-test-0.34.0
-formulahendry.code-runner-0.11.7              pivotal.vscode-concourse-1.31.0               vscjava.vscode-java-test-0.34.1
-gabrielbb.vscode-lombok-1.0.1                 pivotal.vscode-concourse-1.32.0               vscjava.vscode-maven-0.35.0
-hookyqr.beautify-1.5.0                        pivotal.vscode-manifest-yaml-1.31.0           vscjava.vscode-maven-0.35.1
-k--kato.intellij-idea-keybindings-1.5.0       pivotal.vscode-manifest-yaml-1.32.0           vscjava.vscode-spring-boot-dashboard-0.2.0
-k--kato.intellij-idea-keybindings-1.5.1       pivotal.vscode-spring-boot-1.31.0             vscjava.vscode-spring-boot-dashboard-0.3.0
-kampfkarren.roblox-lua-autofills-1.7.1        pivotal.vscode-spring-boot-1.32.0             vscjava.vscode-spring-initializr-0.8.0
-keyring.lua-0.0.9                             redhat.java-1.3.0                             vscjava.vscode-spring-initializr-0.9.0
-koppt.vscode-view-in-browser-1.0.5            redhat.java-1.4.0                             vscodevim.vim-1.22.1
-ms-ceintl.vscode-language-pack-ko-1.64.6      ritwickdey.liveserver-5.7.4                   vscodevim.vim-1.22.2
-ms-ceintl.vscode-language-pack-ko-1.64.7      ritwickdey.liveserver-5.7.5                   yinfei.luahelper-0.2.10
-ms-vscode.cpptools-1.8.4                      shakram02.bash-beautify-0.1.1                 yinfei.luahelper-0.2.12
-ms-vscode.cpptools-1.9.7                      stanzilla.vscode-luaformatter-0.0.4
-mwpb.java-prettier-formatter-0.1.4            visualstudioexptteam.vscodeintellicode-1.2.17
-ykh@ykh:~/.vscode/extensions » clear                
-
-ykh@ykh:~/.vscode/extensions » cd ..
-ykh@ykh:~/.vscode » ls
-argv.json  extensions
-ykh@ykh:~/.vscode » ll 
-total 8
-drwxr-xr-x   4 ykh  staff   128B 12 15  2020 .
-drwxr-xr-x+ 72 ykh  staff   2.3K  4  5 13:45 ..
--rw-r--r--   1 ykh  staff   1.0K 12 15  2020 argv.json
-drwxr-xr-x  58 ykh  staff   1.8K  4  5 13:21 extensions
-ykh@ykh:~/.vscode » vi argv.json 
-ykh@ykh:~/.vscode » cd /Users 
-ykh@ykh:/Users » ls
-Guest  Shared ykh
-ykh@ykh:/Users » cd ykh/Library 
-ykh@ykh:~/Library » cd Application\ S
-cd: no such file or directory: Application S
-ykh@ykh:~/Library » cd Application\ Support                                                                                             1 ↵
-ykh@ykh:~/Library/Application Support » ls
-4kdownload.com                          JREInstaller                            com.apple.NewDeviceOutreach
-AddressBook                             Java                                    com.apple.ProtectedCloudStorage
-AndroidStudio3.4                        JetBrains                               com.apple.TCC
-Animoji                                 Juniper Networks                        com.apple.akd
-App Store                               Knowledge                               com.apple.ap.promotedcontentd
-Battle.net                              Microsoft                               com.apple.avfoundation
-CEF                                     Microsoft AU Daemon                     com.apple.backgroundtaskmanagementagent
-CallHistoryDB                           Microsoft AutoUpdate                    com.apple.exchangesync
-CallHistoryTransactions                 Microsoft Update Assistant              com.apple.replayd
-CloudDocs                               MobileSync                              com.apple.sbd
-Code                                    MongoDB Compass                         com.apple.sharedfilelist
-CoreParsec                              Movavi                                  com.apple.spotlight
-CrashReporter                           NoxAppPlayer                            com.apple.touristd
-DiskImages                              NoxInstaller                            com.apple.transparencyd
-Dock                                    Oracle                                  com.microsoft.teams
-Docker Desktop                          Pulse Secure                            com.microsoft.teams.helper
-Elmedia Player                          Quick Look                              dmd
-Eltima Software                         Sequel Pro                              iCloud
-FaceTime                                Steam                                   iLifeMediaBrowser
-FileProvider                            Sublime Text 3                          icdd
-Google                                  SyncServices                            kotlin
-Insomnia                                TianTianData                            nComicViewer
-IntelliJIdea2018.2                      abnerworks.Typora                       videosubscriptionsd
-IntelliJIdea2018.3                      accountsd                               zoom.us
-IntelliJIdea2019.3                      com.apple.AMPLibraryAgent
-ykh@ykh:~/Library/Application Support » cd Code 
-ykh@ykh:~/Library/Application Support/Code » ls
-1.64.2-main.sock           Code Cache                 GPUCache                   TransportSecurity          logs
-Backups                    Cookies                    Local Storage              User                       machineid
-Cache                      Cookies-journal            Network Persistent State   blob_storage               rapid_render.json
-CachedConfigurations       Crashpad                   QuotaManager               clp                        storage.json
-CachedData                 CrashpadMetrics-active.pma QuotaManager-journal       code.lock
-CachedExtensionVSIXs       CrashpadMetrics.pma        Service Worker             databases
-CachedExtensions           Dictionaries               Session Storage            languagepacks.json
-ykh@ykh:~/Library/Application Support/Code » clear
-
-ykh@ykh:~/Library/Application Support/Code » ls
-1.64.2-main.sock           Code Cache                 GPUCache                   TransportSecurity          logs
-Backups                    Cookies                    Local Storage              User                       machineid
-Cache                      Cookies-journal            Network Persistent State   blob_storage               rapid_render.json
-CachedConfigurations       Crashpad                   QuotaManager               clp                        storage.json
-CachedData                 CrashpadMetrics-active.pma QuotaManager-journal       code.lock
-CachedExtensionVSIXs       CrashpadMetrics.pma        Service Worker             databases
-CachedExtensions           Dictionaries               Session Storage            languagepacks.json
-ykh@ykh:~/Library/Application Support/Code » cd User 
-ykh@ykh:~/Library/Application Support/Code/User » ls
-globalStorage    keybindings.json settings.json    snippets         workspaceStorage
-ykh@ykh:~/Library/Application Support/Code/User » vi keybindings.json 
-ykh@ykh:~/Library/Application Support/Code/User » vi settings.json 
-ykh@ykh:~/Library/Application Support/Code/User » vi keybindings.json 
-ykh@ykh:~/Library/Application Support/Code/User » pwd
-/Users/ykh/Library/Application Support/Code/User
-ykh@ykh:~/Library/Application Support/Code/User » ls
-globalStorage    keybindings.json settings.json    snippets         workspaceStorage
-ykh@ykh:~/Library/Application Support/Code/User » cp keybindings.json /Users/ykh 
-ykh@ykh:~/Library/Application Support/Code/User » vi settings.json 
-ykh@ykh:~/Library/Application Support/Code/User » vi settings.json 
-ykh@ykh:~/Library/Application Support/Code/User » vi keybindings.json 
-ykh@ykh:~/Library/Application Support/Code/User » vi keybindings.json
-ykh@ykh:~/Library/Application Support/Code/User » vi
-ykh@ykh:~/Library/Application Support/Code/User » vi keybindings.json 
-ykh@ykh:~/Library/Application Support/Code/User » vi keybindings.json 
-ykh@ykh:~/Library/Application Support/Code/User » vi keybindings.json
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "ctrl+alt+cmd+r",
+        "command": "code-runner.run"
+    },
+    {
+        "key": "ctrl+alt+n",
+        "command": "-code-runner.run"
+    },
+    {
+        "key": "ctrl+alt+cmd+s",
+        "command": "code-runner.stop"
+    },
+    {
+        "key": "ctrl+alt+m",
+        "command": "-code-runner.stop"
+    },
+    {
+        "key": "alt+cmd+l",
+        "command": "-toggleFindInSelection",
+        "when": "editorFocus"
+    },
+    {
+        "key": "alt+cmd+l",
+        "command": "-editor.action.formatSelection",
+        "when": "editorHasDocumentFormattingProvider && editorHasSelection && editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "alt+cmd+l",
+        "command": "-editor.action.formatDocument",
+        "when": "editorHasDocumentFormattingProvider && editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "alt+cmd+l",
+        "command": "-toggleSearchEditorContextLines",
+        "when": "inSearchEditor"
+    },
+    {
+        "key": "alt+cmd+l",
+        "command": "HookyQR.beautify"
+    },
+    {
+        "key": "ctrl+alt+cmd+g",
+        "command": "spring.initializr.gradle-project"
+    },
+    {
+        "key": "ctrl+alt+cmd+n",
+        "command": "spring.initializr.maven-project"
+    },
+    {
+        "key": "alt+cmd+n",
+        "command": "spring.initializr.createProject"
+    },
+    {
+        "key": "alt+cmd+o",
+        "command": "editor.action.organizeImports",
+        "when": "editorTextFocus && !editorReadonly && supportedCodeAction =~ /(\\s|^)source\\.organizeImports\\b/"
+    },
+    {
+        "key": "shift+alt+o",
+        "command": "-editor.action.organizeImports",
+        "when": "editorTextFocus && !editorReadonly && supportedCodeAction =~ /(\\s|^)source\\.organizeImports\\b/"
+    },
+    {
+        "key": "ctrl+alt+o",
+        "command": "-editor.action.organizeImports",
+        "when": "editorTextFocus && !editorReadonly && supportedCodeAction =~ /(\\s|^)source\\.organizeImports\\b/"
+    },
+    {
         "key": "alt+cmd+l",
         "command": "editor.action.formatDocument",
         "when": "editorHasDocumentFormattingProvider && editorTextFocus && !editorReadonly && !inCompositeEditor"
@@ -673,20 +95,19 @@ ykh@ykh:~/Library/Application Support/Code/User » vi keybindings.json
         "key": "ctrl+alt+cmd+m",
         "command": "maven.archetype.generate"
     },
-    {
+    { 
         "key": "cmd+n",
         "command": "explorer.newFile",
-        "when": "!editorFocus"
+        "when": "!editorFocus" 
     },
-    {
+    { 
         "key": "cmd+shift+n",
         "command": "explorer.newFolder",
-        "when": "!editorFocus"
+        "when": "!editorFocus" 
     },
     {
         "key": "cmd+j",
-        "command": "java.view.package.newJavaClass"
-        "when": "!editorFocus"
+        "command": "java.view.package.newJavaClass",
+        "when": "!editorFocus" 
     }
 ]
-
